@@ -1,0 +1,45 @@
+D:\projectC#\wpf\FileWork\FileWork\bin\Debug\FileWork.exe.config
+D:\projectC#\wpf\FileWork\FileWork\bin\Debug\FileWork.exe
+D:\projectC#\wpf\FileWork\FileWork\bin\Debug\FileWork.pdb
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\MainWindow.g.cs
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\App.g.cs
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork_MarkupCompile.cache
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork_MarkupCompile.lref
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\MainWindow.baml
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.g.resources
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.exe
+D:\projectC#\wpf\FileWork\FileWork\obj\Debug\FileWork.pdb
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.csproj.AssemblyReference.cache
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\App.g.cs
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork_MarkupCompile.cache
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.exe
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.pdb
+E:\projectC#\WPFApp\FileWork\FileWork\bin\Debug\FileWork.exe.config
+E:\projectC#\WPFApp\FileWork\FileWork\bin\Debug\FileWork.exe
+E:\projectC#\WPFApp\FileWork\FileWork\bin\Debug\FileWork.pdb
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\MainWindow.g.cs
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork_MarkupCompile.lref
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\MainWindow.baml
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.g.resources
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\projectC#\WPFApp\FileWork\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.csproj.AssemblyReference.cache
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\MainWindow.g.cs
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\App.g.cs
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork_MarkupCompile.cache
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork_MarkupCompile.lref
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.exe
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.pdb
+E:\projectC#\WPFApp\FileWork - копия\FileWork\bin\Debug\FileWork.exe.config
+E:\projectC#\WPFApp\FileWork - копия\FileWork\bin\Debug\FileWork.exe
+E:\projectC#\WPFApp\FileWork - копия\FileWork\bin\Debug\FileWork.pdb
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\MainWindow.baml
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.g.resources
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\projectC#\WPFApp\FileWork - копия\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
